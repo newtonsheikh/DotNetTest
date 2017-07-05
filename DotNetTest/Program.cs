@@ -11,5 +11,13 @@ namespace DotNetTest
         static void Main(string[] args)
         {
         }
+
+        public void startEngine()
+        {
+        }
+
+        public void stopEngine()
+        {
+        }
     }
 }
